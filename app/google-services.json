@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "92377338456",
+    "project_id": "snapnote-cd2b6",
+    "storage_bucket": "snapnote-cd2b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92377338456:android:3f91612a3a06f6aa2d702d",
+        "android_client_info": {
+          "package_name": "com.devfelix.smartnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hZwPlWoQTs4EHSzlw4pPizAHg1Xkvfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92377338456:android:d4003511488c01412d702d",
+        "android_client_info": {
+          "package_name": "com.devfelix.snapnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hZwPlWoQTs4EHSzlw4pPizAHg1Xkvfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
